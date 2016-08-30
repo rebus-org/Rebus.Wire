@@ -51,11 +51,15 @@ mkdir "%destination%"
 
 "%nuget%" pack "%name%\%name%.nuspec" -OutputDirectory "%destination%" -Version %version%
 
+goto exit
+
 
 
 
 :exit_fail
 
 exit /b 1
+
+
 
 :exit
