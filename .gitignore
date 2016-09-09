@@ -28,3 +28,5 @@ _NCrunch_*
 # MS Guideline
 **/packages/*
 !**/packages/build/
+
+AssemblyInfo_Patch.cs
