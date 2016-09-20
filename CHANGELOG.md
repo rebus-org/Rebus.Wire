@@ -11,3 +11,7 @@
 ## 2.0.0-b02
 
 * Update Wire dep to 0.8.1
+
+## 2.0.0
+
+* Release 2.0.0
