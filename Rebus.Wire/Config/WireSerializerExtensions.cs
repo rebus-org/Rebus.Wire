@@ -1,7 +1,7 @@
-﻿using Rebus.Config;
-using Rebus.Serialization;
+﻿using Rebus.Serialization;
+using Rebus.Wire;
 
-namespace Rebus.Wire
+namespace Rebus.Config
 {
     /// <summary>
     /// Configuration extensions for the Wire serializer

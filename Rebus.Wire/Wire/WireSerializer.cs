@@ -5,6 +5,7 @@ using Rebus.Extensions;
 using Rebus.Messages;
 using Rebus.Serialization;
 using Wire;
+
 #pragma warning disable 1998
 
 namespace Rebus.Wire
