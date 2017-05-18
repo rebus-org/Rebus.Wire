@@ -21,7 +21,8 @@
 * Update to Rebus 3
 * Update Wire dependency to 0.8.2
 
-## 4.0.0-b01
+## 4.0.0-b02
 
 * Update to Rebus 4
 * Add .NET Core support (netstandard1.6)
+* Update deps to b10
