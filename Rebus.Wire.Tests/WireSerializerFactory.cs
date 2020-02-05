@@ -5,9 +5,6 @@ namespace Rebus.Wire.Tests
 {
     public class WireSerializerFactory : ISerializerFactory
     {
-        public ISerializer GetSerializer()
-        {
-            return new WireSerializer();
-        }
+        public ISerializer GetSerializer() => new WireSerializer();
     }
 }
